@@ -1,5 +1,5 @@
 # autoPDFexporter
-Small repository to record the configuring steps of enabling automatic PDF exporter through a keybind on Microsoft Word.
+Small repository to record the configuring steps of enabling automatic PDF exporter on a save action through a keybind on Microsoft Word.
 
 ### First you need to allow developer tab on Word
 Open Word options >> Customize ribbon. On the right there will be an unchecked "Developer" option. Check that box and press OK. The Developer tab on top of Microsoft Word should appear.
